@@ -1,1 +1,3 @@
-# .github
+
+
+![](modelling_whiteboard.jpg)
