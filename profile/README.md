@@ -15,7 +15,7 @@
 - [Biosecurity Program](https://www.kirby.unsw.edu.au/research/programs/bsp)
 - [Surveillance and Evaluation Research Program](https://www.kirby.unsw.edu.au/research/programs/serp)
 
-### Research Groups
+#### Research Groups
 
 - [Infection Epidemiology and Policy Analytics Group](https://www.kirby.unsw.edu.au/research/groups/infection-epidemiology-and-policy-analytics-group)
 - [Mathematical Epidemiology and Evaluation Research Group](https://www.kirby.unsw.edu.au/research/groups/mathematical-epidemiology-and-evaluation-research-group)
